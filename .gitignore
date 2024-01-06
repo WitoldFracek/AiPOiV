@@ -1,3 +1,7 @@
 Dane*
 venv/
 *.zip
+Lab7/chess
+Lab7/out2
+__pycache__
+Lab7/model.pkl
